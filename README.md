@@ -50,7 +50,7 @@ Ejecuta el codigo
 ```
 
 
-## Documentation
+## Documentacion
 
-[Documentation]([https://github.com/DrewDLeon/Solario_Ofertas_MDA.wiki.git])
+[Documentacion]([(https://github.com/DrewDLeon/Solario_Ofertas_MDA.wiki.git)])
 
