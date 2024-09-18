@@ -52,5 +52,5 @@ Ejecuta el codigo
 
 ## Documentacion
 
-[Documentacion](https://github.com/DrewDLeon/Solario_Ofertas_MDA.wiki.git)
+[Documentacion](https://github.com/DrewDLeon/Solario_Ofertas_MDA/wiki/Functions.py)
 
